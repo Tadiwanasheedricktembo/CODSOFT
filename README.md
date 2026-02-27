@@ -1,7 +1,9 @@
-Quote of the Day Developed by Tadiwa Edrick Tembo
+# Quote of the Day Developed by Tadiwa Edrick Tembo
 
-Quote of the Day is a modern and inspiring Android application designed to provide your daily dose of motivation. Featuring a clean Material 3 design, the app fetches random, thought-provoking quotes from the ZenQuotes API at the touch of a button.
-Key Features:
+Quote of the Day is a modern and inspiring Android application designed to provide your daily dose of motivation. 
+
+Featuring a clean Material 3 design, the app fetches random, thought-provoking quotes from the ZenQuotes API at the touch of a button.
+# Key Features:
 •
 Daily Inspiration: Instantly fetch and display random quotes from world-renowned authors.
 •
